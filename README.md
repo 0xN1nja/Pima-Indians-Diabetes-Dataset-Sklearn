@@ -1,5 +1,5 @@
 # Pima Indians Diabetes Dataset Using Sklearn (Logistic Regression)
-# A Model To Predict That A Patient Has Diabetes Or Not
+## A Model To Predict That A Patient Has Diabetes Or Not
 
 # Author
 Abhimanyu Sharma, https://github.com/0xN1nja
